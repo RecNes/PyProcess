@@ -1,13 +1,7 @@
 psp
 ===
 
-PS for Python Processes
-
-
-Description
-===
-
-This bash file, displays onrunning python scripts.
+Python targetted process list. Displays only python processes by bash script.
 
 
 Usage
